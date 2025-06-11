@@ -1,0 +1,72 @@
+2025-05-12 13:14:01,921 - WDM - INFO - ====== WebDriver manager ======
+2025-05-12 13:14:08,480 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 13:14:09,559 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 13:14:14,273 - WDM - INFO - Driver [C:\Users\AVANISH\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-12 13:14:15,911 - CricbuzzMostRunsScraper - INFO - Starting to scrape Most Runs table
+2025-05-12 13:14:15,911 - CricbuzzMostRunsScraper - INFO - Navigating to https://m.cricbuzz.com/cricket-stats
+2025-05-12 13:14:36,879 - CricbuzzMostRunsScraper - ERROR - Failed to load stats page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00DCFC53+61635]
+	GetHandleVerifier [0x00DCFC94+61700]
+	(No symbol) [0x00BF05D3]
+	(No symbol) [0x00C3899E]
+	(No symbol) [0x00C38D3B]
+	(No symbol) [0x00C80E12]
+	(No symbol) [0x00C5D2E4]
+	(No symbol) [0x00C7E61B]
+	(No symbol) [0x00C5D096]
+	(No symbol) [0x00C2C840]
+	(No symbol) [0x00C2D6A4]
+	GetHandleVerifier [0x01054573+2701795]
+	GetHandleVerifier [0x0104FCF6+2683238]
+	GetHandleVerifier [0x0106AA3E+2793134]
+	GetHandleVerifier [0x00DE6915+155013]
+	GetHandleVerifier [0x00DECFFD+181357]
+	GetHandleVerifier [0x00DD74A8+92440]
+	GetHandleVerifier [0x00DD7650+92864]
+	GetHandleVerifier [0x00DC2040+5296]
+	BaseThreadInitThunk [0x761A5D49+25]
+	RtlInitializeExceptionChain [0x7767CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7767CE91+561]
+
+2025-05-12 13:14:37,048 - CricbuzzMostRunsScraper - INFO - Screenshot saved to data\screenshot_page_load_failed_20250512_131436.png
+2025-05-12 13:14:37,113 - CricbuzzMostRunsScraper - INFO - Page source saved to data\source_page_load_failed_20250512_131436.html
+2025-05-12 13:14:40,095 - CricbuzzMostRunsScraper - INFO - Browser closed successfully
+2025-05-12 13:24:28,969 - WDM - INFO - ====== WebDriver manager ======
+2025-05-12 13:24:35,065 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 13:24:36,272 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-12 13:24:37,266 - WDM - INFO - Driver [C:\Users\AVANISH\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-12 13:24:38,746 - CricbuzzMostRunsScraper - INFO - Starting Most Runs scraping
+2025-05-12 13:24:38,746 - CricbuzzMostRunsScraper - INFO - Navigating to https://m.cricbuzz.com/cricket-stats
+2025-05-12 13:24:40,569 - CricbuzzMostRunsScraper - INFO - Stats page loaded successfully
+2025-05-12 13:24:40,570 - CricbuzzMostRunsScraper - INFO - Looking for 'Most Runs' tab
+2025-05-12 13:24:40,672 - CricbuzzMostRunsScraper - INFO - Found 'Most Runs' tab with exact text match
+2025-05-12 13:24:41,378 - CricbuzzMostRunsScraper - INFO - Waiting for table to load after clicking tab
+2025-05-12 13:25:04,562 - CricbuzzMostRunsScraper - ERROR - Failed to scrape Most Runs tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00DCFC53+61635]
+	GetHandleVerifier [0x00DCFC94+61700]
+	(No symbol) [0x00BF05D3]
+	(No symbol) [0x00C3899E]
+	(No symbol) [0x00C38D3B]
+	(No symbol) [0x00C80E12]
+	(No symbol) [0x00C5D2E4]
+	(No symbol) [0x00C7E61B]
+	(No symbol) [0x00C5D096]
+	(No symbol) [0x00C2C840]
+	(No symbol) [0x00C2D6A4]
+	GetHandleVerifier [0x01054573+2701795]
+	GetHandleVerifier [0x0104FCF6+2683238]
+	GetHandleVerifier [0x0106AA3E+2793134]
+	GetHandleVerifier [0x00DE6915+155013]
+	GetHandleVerifier [0x00DECFFD+181357]
+	GetHandleVerifier [0x00DD74A8+92440]
+	GetHandleVerifier [0x00DD7650+92864]
+	GetHandleVerifier [0x00DC2040+5296]
+	BaseThreadInitThunk [0x761A5D49+25]
+	RtlInitializeExceptionChain [0x7767CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7767CE91+561]
+
+2025-05-12 13:25:04,717 - CricbuzzMostRunsScraper - INFO - Screenshot saved to data\screenshot_most_runs_scrape_failed_20250512_132504.png
+2025-05-12 13:25:04,770 - CricbuzzMostRunsScraper - INFO - Page source saved to data\source_most_runs_scrape_failed_20250512_132504.html
+2025-05-12 13:25:07,089 - CricbuzzMostRunsScraper - INFO - Browser closed successfully

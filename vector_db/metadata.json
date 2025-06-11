@@ -1,0 +1,752 @@
+[
+  {
+    "text": "Match: \nTeams:  vs Scott Page Field, Vinor,\nVenue: Scott Page Field\nDate & Time: ",
+    "metadata": {
+      "headline": null,
+      "match_number": "",
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "schedule",
+      "summary_type": null,
+      "teams": " vs Scott Page Field, Vinor,",
+      "type": null,
+      "wickets": null
+    }
+  },
+  {
+    "text": "Rank: 1\nPlayer: Sai Sudharsan (Batsman)\nMatches: 15\nInnings: 15\nRuns: 759\nHighest: 54.21\nAverage: 156.17\nStrike Rate: 88\n100s: 21\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Sai Sudharsan",
+      "rank": 1.0,
+      "runs": 759.0,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "batting",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Rank: 2\nPlayer: Suryakumar Yadav (Batsman)\nMatches: 16\nInnings: 16\nRuns: 717\nHighest: 65.18\nAverage: 167.92\nStrike Rate: 69\n100s: 38\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Suryakumar Yadav",
+      "rank": 2.0,
+      "runs": 717.0,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "batting",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Rank: 3\nPlayer: Virat Kohli (Batsman)\nMatches: 15\nInnings: 15\nRuns: 657\nHighest: 54.75\nAverage: 144.71\nStrike Rate: 66\n100s: 19\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Virat Kohli",
+      "rank": 3.0,
+      "runs": 657.0,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "batting",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Rank: 4\nPlayer: Shubman Gill (Batsman)\nMatches: 15\nInnings: 15\nRuns: 650\nHighest: 50.00\nAverage: 155.88\nStrike Rate: 62\n100s: 24\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Shubman Gill",
+      "rank": 4.0,
+      "runs": 650.0,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "batting",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Rank: 5\nPlayer: Mitchell Marsh (Batsman)\nMatches: 13\nInnings: 13\nRuns: 627\nHighest: 48.23\nAverage: 163.71\nStrike Rate: 56\n100s: 37\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Mitchell Marsh",
+      "rank": 5.0,
+      "runs": 627.0,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "batting",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Rank: 6\nPlayer: Shreyas Iyer (Batsman)\nMatches: 17\nInnings: 17\nRuns: 604\nHighest: 50.33\nAverage: 175.07\nStrike Rate: 43\n100s: 39\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Shreyas Iyer",
+      "rank": 6.0,
+      "runs": 604.0,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "batting",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Rank: 7\nPlayer: Yashasvi Jaiswal (Batsman)\nMatches: 14\nInnings: 14\nRuns: 559\nHighest: 43.00\nAverage: 159.71\nStrike Rate: 60\n100s: 28\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Yashasvi Jaiswal",
+      "rank": 7.0,
+      "runs": 559.0,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "batting",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Rank: 8\nPlayer: Prabhsimran Singh (Batsman)\nMatches: 17\nInnings: 17\nRuns: 549\nHighest: 32.29\nAverage: 160.53\nStrike Rate: 56\n100s: 30\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Prabhsimran Singh",
+      "rank": 8.0,
+      "runs": 549.0,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "batting",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Rank: 9\nPlayer: KL Rahul (Batsman)\nMatches: 13\nInnings: 13\nRuns: 539\nHighest: 53.90\nAverage: 149.72\nStrike Rate: 52\n100s: 21\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "KL Rahul",
+      "rank": 9.0,
+      "runs": 539.0,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "batting",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Rank: 10\nPlayer: Jos Buttler (Batsman)\nMatches: 14\nInnings: 13\nRuns: 538\nHighest: 59.78\nAverage: 163.03\nStrike Rate: 52\n100s: 24\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Jos Buttler",
+      "rank": 10.0,
+      "runs": 538.0,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "batting",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Rank: 11\nPlayer: Nicholas Pooran (Batsman)\nMatches: 14\nInnings: 14\nRuns: 524\nHighest: 43.67\nAverage: 196.25\nStrike Rate: 45\n100s: 40\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Nicholas Pooran",
+      "rank": 11.0,
+      "runs": 524.0,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "batting",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Rank: 12\nPlayer: Heinrich Klaasen (Batsman)\nMatches: 14\nInnings: 13\nRuns: 487\nHighest: 44.27\nAverage: 172.70\nStrike Rate: 42\n100s: 25\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Heinrich Klaasen",
+      "rank": 12.0,
+      "runs": 487.0,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "batting",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Rank: 13\nPlayer: Priyansh Arya (Batsman)\nMatches: 17\nInnings: 17\nRuns: 475\nHighest: 27.94\nAverage: 179.25\nStrike Rate: 55\n100s: 25\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Priyansh Arya",
+      "rank": 13.0,
+      "runs": 475.0,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "batting",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Rank: 14\nPlayer: Aiden Markram (Batsman)\nMatches: 13\nInnings: 13\nRuns: 445\nHighest: 34.23\nAverage: 148.83\nStrike Rate: 38\n100s: 22\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Aiden Markram",
+      "rank": 14.0,
+      "runs": 445.0,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "batting",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Rank: 15\nPlayer: Abhishek Sharma (Batsman)\nMatches: 14\nInnings: 13\nRuns: 439\nHighest: 33.77\nAverage: 193.39\nStrike Rate: 46\n100s: 28\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Abhishek Sharma",
+      "rank": 15.0,
+      "runs": 439.0,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "batting",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Top 5 Batsmen by Runs:\n1. Sai Sudharsan - 759 runs\n2. Suryakumar Yadav - 717 runs\n3. Virat Kohli - 657 runs\n4. Shubman Gill - 650 runs\n5. Mitchell Marsh - 627 runs",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "ipl_stats_summary",
+      "summary_type": "top_batsmen",
+      "teams": null,
+      "type": "batting_summary",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Bottom 5 Batsmen by Runs:\n1. Abhishek Sharma - 439 runs\n2. Aiden Markram - 445 runs\n3. Priyansh Arya - 475 runs\n4. Heinrich Klaasen - 487 runs\n5. Nicholas Pooran - 524 runs",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "ipl_stats_summary",
+      "summary_type": "bottom_batsmen",
+      "teams": null,
+      "type": "batting_summary",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Rank: 1\nPlayer: Prasidh Krishna (Bowler)\nMatches: 15\nInnings: 59.0\nOvers: 354\nWickets: 25\nBest: 19.52\nAvg: 488\nEconomy: 1\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Prasidh Krishna",
+      "rank": 1.0,
+      "runs": null,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "bowling",
+      "wickets": 25.0
+    }
+  },
+  {
+    "text": "Rank: 2\nPlayer: Noor Ahmad (Bowler)\nMatches: 14\nInnings: 50.0\nOvers: 300\nWickets: 24\nBest: 17.00\nAvg: 408\nEconomy: 2\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Noor Ahmad",
+      "rank": 2.0,
+      "runs": null,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "bowling",
+      "wickets": 24.0
+    }
+  },
+  {
+    "text": "Rank: 3\nPlayer: Josh Hazlewood (Bowler)\nMatches: 12\nInnings: 44.0\nOvers: 264\nWickets: 22\nBest: 17.55\nAvg: 386\nEconomy: 1\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Josh Hazlewood",
+      "rank": 3.0,
+      "runs": null,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "bowling",
+      "wickets": 22.0
+    }
+  },
+  {
+    "text": "Rank: 4\nPlayer: Trent Boult (Bowler)\nMatches: 16\nInnings: 57.4\nOvers: 346\nWickets: 22\nBest: 23.50\nAvg: 517\nEconomy: 1\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Trent Boult",
+      "rank": 4.0,
+      "runs": null,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "bowling",
+      "wickets": 22.0
+    }
+  },
+  {
+    "text": "Rank: 5\nPlayer: Arshdeep Singh (Bowler)\nMatches: 17\nInnings: 58.2\nOvers: 350\nWickets: 21\nBest: 24.67\nAvg: 518\nEconomy: -\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Arshdeep Singh",
+      "rank": 5.0,
+      "runs": null,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "bowling",
+      "wickets": 21.0
+    }
+  },
+  {
+    "text": "Rank: 6\nPlayer: Ravisrinivasan Sai Kishore (Bowler)\nMatches: 15\nInnings: 42.3\nOvers: 255\nWickets: 19\nBest: 20.68\nAvg: 393\nEconomy: -\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Ravisrinivasan Sai Kishore",
+      "rank": 6.0,
+      "runs": null,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "bowling",
+      "wickets": 19.0
+    }
+  },
+  {
+    "text": "Rank: 7\nPlayer: Jasprit Bumrah (Bowler)\nMatches: 12\nInnings: 47.2\nOvers: 284\nWickets: 18\nBest: 17.56\nAvg: 316\nEconomy: 1\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Jasprit Bumrah",
+      "rank": 7.0,
+      "runs": null,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "bowling",
+      "wickets": 18.0
+    }
+  },
+  {
+    "text": "Rank: 8\nPlayer: Vaibhav Arora (Bowler)\nMatches: 12\nInnings: 42.3\nOvers: 255\nWickets: 17\nBest: 25.29\nAvg: 430\nEconomy: -\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Vaibhav Arora",
+      "rank": 8.0,
+      "runs": null,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "bowling",
+      "wickets": 17.0
+    }
+  },
+  {
+    "text": "Rank: 9\nPlayer: Varun Chakaravarthy (Bowler)\nMatches: 13\nInnings: 50.0\nOvers: 300\nWickets: 17\nBest: 22.53\nAvg: 383\nEconomy: -\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Varun Chakaravarthy",
+      "rank": 9.0,
+      "runs": null,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "bowling",
+      "wickets": 17.0
+    }
+  },
+  {
+    "text": "Rank: 10\nPlayer: Krunal Pandya (Bowler)\nMatches: 15\nInnings: 46.0\nOvers: 276\nWickets: 17\nBest: 22.29\nAvg: 379\nEconomy: 1\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Krunal Pandya",
+      "rank": 10.0,
+      "runs": null,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "bowling",
+      "wickets": 17.0
+    }
+  },
+  {
+    "text": "Rank: 11\nPlayer: Bhuvneshwar Kumar (Bowler)\nMatches: 14\nInnings: 52.0\nOvers: 312\nWickets: 17\nBest: 28.41\nAvg: 483\nEconomy: -\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Bhuvneshwar Kumar",
+      "rank": 11.0,
+      "runs": null,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "bowling",
+      "wickets": 17.0
+    }
+  },
+  {
+    "text": "Rank: 12\nPlayer: Pat Cummins (Bowler)\nMatches: 14\nInnings: 49.4\nOvers: 298\nWickets: 16\nBest: 28.13\nAvg: 450\nEconomy: -\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Pat Cummins",
+      "rank": 12.0,
+      "runs": null,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "bowling",
+      "wickets": 16.0
+    }
+  },
+  {
+    "text": "Rank: 13\nPlayer: Marco Jansen (Bowler)\nMatches: 14\nInnings: 47.1\nOvers: 283\nWickets: 16\nBest: 27.13\nAvg: 434\nEconomy: -\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Marco Jansen",
+      "rank": 13.0,
+      "runs": null,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "bowling",
+      "wickets": 16.0
+    }
+  },
+  {
+    "text": "Rank: 14\nPlayer: Mohammed Siraj (Bowler)\nMatches: 15\nInnings: 57.0\nOvers: 342\nWickets: 16\nBest: 32.94\nAvg: 527\nEconomy: 1\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Mohammed Siraj",
+      "rank": 14.0,
+      "runs": null,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "bowling",
+      "wickets": 16.0
+    }
+  },
+  {
+    "text": "Rank: 15\nPlayer: Yuzvendra Chahal (Bowler)\nMatches: 14\nInnings: 45.0\nOvers: 270\nWickets: 16\nBest: 26.88\nAvg: 430\nEconomy: 2\n",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": "Yuzvendra Chahal",
+      "rank": 15.0,
+      "runs": null,
+      "source": "ipl_player_stats",
+      "summary_type": null,
+      "teams": null,
+      "type": "bowling",
+      "wickets": 16.0
+    }
+  },
+  {
+    "text": "Top 5 Bowlers by Wickets:\n1. Prasidh Krishna - 25 wickets\n2. Noor Ahmad - 24 wickets\n3. Josh Hazlewood - 22 wickets\n4. Trent Boult - 22 wickets\n5. Arshdeep Singh - 21 wickets",
+    "metadata": {
+      "headline": null,
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "ipl_stats_summary",
+      "summary_type": "top_bowlers",
+      "teams": null,
+      "type": "bowling_summary",
+      "wickets": null
+    }
+  },
+  {
+    "text": "Headline: Pooran announces shock international retirement at 29\nUrl: https://www.cricbuzz.com/cricket-news/134588/nicholas-pooran-west-indies-retirement-international-cricket\nDescription: NEWS \u2022 RETIREMENT\nDate: 5h ago",
+    "metadata": {
+      "headline": "Pooran announces shock international retirement at 29",
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "news",
+      "summary_type": null,
+      "teams": null,
+      "type": null,
+      "wickets": null
+    }
+  },
+  {
+    "text": "Headline: Kotian, Kamboj shine with bat in drawn game\nUrl: https://www.cricbuzz.com/cricket-news/134587/kotian-kamboj-shine-with-bat-in-drawn-game\nDescription: REPORTS \u2022 ENGLAND LIONS VS INDIA A\nDate: 13h ago",
+    "metadata": {
+      "headline": "Kotian, Kamboj shine with bat in drawn game",
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "news",
+      "summary_type": null,
+      "teams": null,
+      "type": null,
+      "wickets": null
+    }
+  },
+  {
+    "text": "Headline: Ashwin sanctioned for dissent and outburst in TNPL game\nUrl: https://www.cricbuzz.com/cricket-news/134586/ashwin-sanctioned-for-dissent-and-outrburst-in-tnpl-game\nDescription: NEWS \u2022 FINED\nDate: 13h ago",
+    "metadata": {
+      "headline": "Ashwin sanctioned for dissent and outburst in TNPL game",
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "news",
+      "summary_type": null,
+      "teams": null,
+      "type": null,
+      "wickets": null
+    }
+  },
+  {
+    "text": "Headline: WTC Final: All eyes on the ball, and none on those facing it\nUrl: https://www.cricbuzz.com/cricket-news/134585/wtc-final-all-eyes-on-the-ball-and-none-on-those-facing-it\nDescription: MATCH FEATURES \u2022 BATTERS IN THE SHADOWS\nDate: 13h ago",
+    "metadata": {
+      "headline": "WTC Final: All eyes on the ball, and none on those facing it",
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "news",
+      "summary_type": null,
+      "teams": null,
+      "type": null,
+      "wickets": null
+    }
+  },
+  {
+    "text": "Headline: Najmul intent on perfecting sweep ahead of Sri Lankan test\nUrl: https://www.cricbuzz.com/cricket-news/134584/najmul-intent-on-perfecting-sweep-ahead-of-sri-lankan-test\nDescription: NEWS \u2022 BANGLADESH IN SRI LANKA, 2025\nDate: 13h ago",
+    "metadata": {
+      "headline": "Najmul intent on perfecting sweep ahead of Sri Lankan test",
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "news",
+      "summary_type": null,
+      "teams": null,
+      "type": null,
+      "wickets": null
+    }
+  },
+  {
+    "text": "Headline: WTC final: Will Australia have an advantage?\nUrl: https://www.cricbuzz.com/cricket-news/134583/wtc-final-will-australia-have-an-advantage\nDescription: STATS \u2022 WORLD TEST CHAMPIONSHIP FINAL, 2025\nDate: 14h ago",
+    "metadata": {
+      "headline": "WTC final: Will Australia have an advantage?",
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "news",
+      "summary_type": null,
+      "teams": null,
+      "type": null,
+      "wickets": null
+    }
+  },
+  {
+    "text": "Headline: MS Dhoni inducted to ICC Hall of Fame\nUrl: https://www.cricbuzz.com/cricket-news/134582/ms-dhoni-inducted-to-icc-hall-of-fame\nDescription: NEWS \u2022 ICC HALL OF FAME, 2025\nDate: 14h ago",
+    "metadata": {
+      "headline": "MS Dhoni inducted to ICC Hall of Fame",
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "news",
+      "summary_type": null,
+      "teams": null,
+      "type": null,
+      "wickets": null
+    }
+  },
+  {
+    "text": "Headline: MCA appoint Dilip Vengsarkar, Diana Edulji as advisors\nUrl: https://www.cricbuzz.com/cricket-news/134581/mca-appoint-dilip-vengsarkar-diana-edulji-as-advisors\nDescription: NEWS \u2022 WISE HEADS\nDate: 14h ago",
+    "metadata": {
+      "headline": "MCA appoint Dilip Vengsarkar, Diana Edulji as advisors",
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "news",
+      "summary_type": null,
+      "teams": null,
+      "type": null,
+      "wickets": null
+    }
+  },
+  {
+    "text": "Headline: WTC: A Lightweight Contest for Heavyweights\nUrl: https://www.cricbuzz.com/cricket-news/134580/wtc-a-lightweight-contest-for-heavyweights\nDescription: PREMIUM EDITORIALS \u2022 WTC FINAL, 2025\nDate: 18h ago",
+    "metadata": {
+      "headline": "WTC: A Lightweight Contest for Heavyweights",
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "news",
+      "summary_type": null,
+      "teams": null,
+      "type": null,
+      "wickets": null
+    }
+  },
+  {
+    "text": "Headline: Captaincy brings in a lot of maturity and responsibility: Shreyas Iyer\nUrl: https://www.cricbuzz.com/cricket-news/134579/captaincy-brings-in-a-lot-of-maturity-and-responsibility-shreyas-iyer\nDescription: NEWS \u2022 RESPONSIBILITY SITS WELL\nDate: 18h ago",
+    "metadata": {
+      "headline": "Captaincy brings in a lot of maturity and responsibility: Shreyas Iyer",
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "news",
+      "summary_type": null,
+      "teams": null,
+      "type": null,
+      "wickets": null
+    }
+  },
+  {
+    "text": "Headline: RCB celebrate maiden IPL title\nUrl: https://www.cricbuzz.com/cricket-gallery/6041/rcb-celebrate-maiden-ipl-title\nDescription: No Description\nDate: Tue, Jun 03 2025",
+    "metadata": {
+      "headline": "RCB celebrate maiden IPL title",
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "news",
+      "summary_type": null,
+      "teams": null,
+      "type": null,
+      "wickets": null
+    }
+  },
+  {
+    "text": "Headline: IPL 2025 Final: RCB v PBKS\nUrl: https://www.cricbuzz.com/cricket-gallery/6040/ipl-2025-final-rcb-v-pbks\nDescription: No Description\nDate: Tue, Jun 03 2025",
+    "metadata": {
+      "headline": "IPL 2025 Final: RCB v PBKS",
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "news",
+      "summary_type": null,
+      "teams": null,
+      "type": null,
+      "wickets": null
+    }
+  },
+  {
+    "text": "Headline: IPL 2025: Qualifier 2 - PBKS v MI\nUrl: https://www.cricbuzz.com/cricket-gallery/6039/ipl-2025-qualifier-2-pbks-v-mi\nDescription: No Description\nDate: Sun, Jun 01 2025",
+    "metadata": {
+      "headline": "IPL 2025: Qualifier 2 - PBKS v MI",
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "news",
+      "summary_type": null,
+      "teams": null,
+      "type": null,
+      "wickets": null
+    }
+  },
+  {
+    "text": "Headline: IPL 2025: Qualifier 1 - PBKS vs RCB\nUrl: https://www.cricbuzz.com/cricket-gallery/6038/ipl-2025-qualifier-1-pbks-vs-rcb\nDescription: No Description\nDate: Thu, May 29 2025",
+    "metadata": {
+      "headline": "IPL 2025: Qualifier 1 - PBKS vs RCB",
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "news",
+      "summary_type": null,
+      "teams": null,
+      "type": null,
+      "wickets": null
+    }
+  },
+  {
+    "text": "Headline: IPL 2025: Match 70 - LSG vs RCB\nUrl: https://www.cricbuzz.com/cricket-gallery/6037/ipl-2025-match-70-lsg-vs-rcb\nDescription: No Description\nDate: Tue, May 27 2025",
+    "metadata": {
+      "headline": "IPL 2025: Match 70 - LSG vs RCB",
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "news",
+      "summary_type": null,
+      "teams": null,
+      "type": null,
+      "wickets": null
+    }
+  },
+  {
+    "text": "Headline: IPL 2025: Match 69 - PBKS vs MI\nUrl: https://www.cricbuzz.com/cricket-gallery/6036/ipl-2025-match-69-pbks-vs-mi\nDescription: No Description\nDate: Mon, May 26 2025",
+    "metadata": {
+      "headline": "IPL 2025: Match 69 - PBKS vs MI",
+      "match_number": null,
+      "player": null,
+      "rank": null,
+      "runs": null,
+      "source": "news",
+      "summary_type": null,
+      "teams": null,
+      "type": null,
+      "wickets": null
+    }
+  }
+]

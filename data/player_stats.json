@@ -1,0 +1,406 @@
+{
+  "batting": [
+    {
+      "player": "Sachin Tendulkar",
+      "matches": "200",
+      "inns": "329",
+      "runs": "15,921",
+      "avg": "54",
+      "sr": "54",
+      "4s": "2,058",
+      "6s": "69"
+    },
+    {
+      "player": "Rahul Dravid",
+      "matches": "163",
+      "inns": "284",
+      "runs": "13,265",
+      "avg": "53",
+      "sr": "43",
+      "4s": "1,652",
+      "6s": "21"
+    },
+    {
+      "player": "Sunil Gavaskar",
+      "matches": "125",
+      "inns": "214",
+      "runs": "10,122",
+      "avg": "51",
+      "sr": "66",
+      "4s": "1,016",
+      "6s": "26"
+    },
+    {
+      "player": "Virat Kohli",
+      "matches": "123",
+      "inns": "210",
+      "runs": "9,230",
+      "avg": "47",
+      "sr": "56",
+      "4s": "1,027",
+      "6s": "30"
+    },
+    {
+      "player": "VVS Laxman",
+      "matches": "134",
+      "inns": "225",
+      "runs": "8,781",
+      "avg": "46",
+      "sr": "49",
+      "4s": "1,135",
+      "6s": "5"
+    },
+    {
+      "player": "Virender Sehwag",
+      "matches": "103",
+      "inns": "178",
+      "runs": "8,503",
+      "avg": "49",
+      "sr": "82",
+      "4s": "1,219",
+      "6s": "90"
+    },
+    {
+      "player": "Sourav Ganguly",
+      "matches": "113",
+      "inns": "188",
+      "runs": "7,212",
+      "avg": "42",
+      "sr": "51",
+      "4s": "900",
+      "6s": "57"
+    },
+    {
+      "player": "Cheteshwar Pujara",
+      "matches": "103",
+      "inns": "176",
+      "runs": "7,195",
+      "avg": "44",
+      "sr": "44",
+      "4s": "863",
+      "6s": "16"
+    },
+    {
+      "player": "Dilip Vengsarkar",
+      "matches": "116",
+      "inns": "185",
+      "runs": "6,868",
+      "avg": "42",
+      "sr": "60",
+      "4s": "560",
+      "6s": "17"
+    },
+    {
+      "player": "Mohammad Azharuddin",
+      "matches": "99",
+      "inns": "147",
+      "runs": "6,215",
+      "avg": "45",
+      "sr": "63",
+      "4s": "720",
+      "6s": "19"
+    },
+    {
+      "player": "Gundappa Viswanath",
+      "matches": "91",
+      "inns": "155",
+      "runs": "6,080",
+      "avg": "42",
+      "sr": "76",
+      "4s": "616",
+      "6s": "6"
+    },
+    {
+      "player": "Kapil Dev",
+      "matches": "131",
+      "inns": "184",
+      "runs": "5,248",
+      "avg": "31",
+      "sr": "95",
+      "4s": "587",
+      "6s": "61"
+    },
+    {
+      "player": "Ajinkya Rahane",
+      "matches": "85",
+      "inns": "144",
+      "runs": "5,077",
+      "avg": "38",
+      "sr": "50",
+      "4s": "579",
+      "6s": "35"
+    },
+    {
+      "player": "MS Dhoni",
+      "matches": "90",
+      "inns": "144",
+      "runs": "4,876",
+      "avg": "38",
+      "sr": "59",
+      "4s": "544",
+      "6s": "78"
+    },
+    {
+      "player": "Mohinder Amarnath",
+      "matches": "69",
+      "inns": "113",
+      "runs": "4,378",
+      "avg": "43",
+      "sr": "86",
+      "4s": "330",
+      "6s": "21"
+    },
+    {
+      "player": "Rohit Sharma",
+      "matches": "67",
+      "inns": "116",
+      "runs": "4,301",
+      "avg": "41",
+      "sr": "57",
+      "4s": "473",
+      "6s": "88"
+    },
+    {
+      "player": "Gautam Gambhir",
+      "matches": "58",
+      "inns": "104",
+      "runs": "4,154",
+      "avg": "42",
+      "sr": "51",
+      "4s": "517",
+      "6s": "10"
+    },
+    {
+      "player": "Murali Vijay",
+      "matches": "61",
+      "inns": "105",
+      "runs": "3,982",
+      "avg": "38",
+      "sr": "46",
+      "4s": "467",
+      "6s": "33"
+    },
+    {
+      "player": "Ravi Shastri",
+      "matches": "80",
+      "inns": "121",
+      "runs": "3,830",
+      "avg": "36",
+      "sr": "48",
+      "4s": "317",
+      "6s": "22"
+    },
+    {
+      "player": "Polly Umrigar",
+      "matches": "59",
+      "inns": "94",
+      "runs": "3,631",
+      "avg": "42",
+      "sr": "",
+      "4s": "151",
+      "6s": "4"
+    }
+  ],
+  "bowling": [
+    {
+      "player": "Sachin Tendulkar",
+      "matches": "200",
+      "inns": "329",
+      "runs": "15,921",
+      "avg": "54",
+      "sr": "54",
+      "4s": "2,058",
+      "6s": "69"
+    },
+    {
+      "player": "Rahul Dravid",
+      "matches": "163",
+      "inns": "284",
+      "runs": "13,265",
+      "avg": "53",
+      "sr": "43",
+      "4s": "1,652",
+      "6s": "21"
+    },
+    {
+      "player": "Sunil Gavaskar",
+      "matches": "125",
+      "inns": "214",
+      "runs": "10,122",
+      "avg": "51",
+      "sr": "66",
+      "4s": "1,016",
+      "6s": "26"
+    },
+    {
+      "player": "Virat Kohli",
+      "matches": "123",
+      "inns": "210",
+      "runs": "9,230",
+      "avg": "47",
+      "sr": "56",
+      "4s": "1,027",
+      "6s": "30"
+    },
+    {
+      "player": "VVS Laxman",
+      "matches": "134",
+      "inns": "225",
+      "runs": "8,781",
+      "avg": "46",
+      "sr": "49",
+      "4s": "1,135",
+      "6s": "5"
+    },
+    {
+      "player": "Virender Sehwag",
+      "matches": "103",
+      "inns": "178",
+      "runs": "8,503",
+      "avg": "49",
+      "sr": "82",
+      "4s": "1,219",
+      "6s": "90"
+    },
+    {
+      "player": "Sourav Ganguly",
+      "matches": "113",
+      "inns": "188",
+      "runs": "7,212",
+      "avg": "42",
+      "sr": "51",
+      "4s": "900",
+      "6s": "57"
+    },
+    {
+      "player": "Cheteshwar Pujara",
+      "matches": "103",
+      "inns": "176",
+      "runs": "7,195",
+      "avg": "44",
+      "sr": "44",
+      "4s": "863",
+      "6s": "16"
+    },
+    {
+      "player": "Dilip Vengsarkar",
+      "matches": "116",
+      "inns": "185",
+      "runs": "6,868",
+      "avg": "42",
+      "sr": "60",
+      "4s": "560",
+      "6s": "17"
+    },
+    {
+      "player": "Mohammad Azharuddin",
+      "matches": "99",
+      "inns": "147",
+      "runs": "6,215",
+      "avg": "45",
+      "sr": "63",
+      "4s": "720",
+      "6s": "19"
+    },
+    {
+      "player": "Gundappa Viswanath",
+      "matches": "91",
+      "inns": "155",
+      "runs": "6,080",
+      "avg": "42",
+      "sr": "76",
+      "4s": "616",
+      "6s": "6"
+    },
+    {
+      "player": "Kapil Dev",
+      "matches": "131",
+      "inns": "184",
+      "runs": "5,248",
+      "avg": "31",
+      "sr": "95",
+      "4s": "587",
+      "6s": "61"
+    },
+    {
+      "player": "Ajinkya Rahane",
+      "matches": "85",
+      "inns": "144",
+      "runs": "5,077",
+      "avg": "38",
+      "sr": "50",
+      "4s": "579",
+      "6s": "35"
+    },
+    {
+      "player": "MS Dhoni",
+      "matches": "90",
+      "inns": "144",
+      "runs": "4,876",
+      "avg": "38",
+      "sr": "59",
+      "4s": "544",
+      "6s": "78"
+    },
+    {
+      "player": "Mohinder Amarnath",
+      "matches": "69",
+      "inns": "113",
+      "runs": "4,378",
+      "avg": "43",
+      "sr": "86",
+      "4s": "330",
+      "6s": "21"
+    },
+    {
+      "player": "Rohit Sharma",
+      "matches": "67",
+      "inns": "116",
+      "runs": "4,301",
+      "avg": "41",
+      "sr": "57",
+      "4s": "473",
+      "6s": "88"
+    },
+    {
+      "player": "Gautam Gambhir",
+      "matches": "58",
+      "inns": "104",
+      "runs": "4,154",
+      "avg": "42",
+      "sr": "51",
+      "4s": "517",
+      "6s": "10"
+    },
+    {
+      "player": "Murali Vijay",
+      "matches": "61",
+      "inns": "105",
+      "runs": "3,982",
+      "avg": "38",
+      "sr": "46",
+      "4s": "467",
+      "6s": "33"
+    },
+    {
+      "player": "Ravi Shastri",
+      "matches": "80",
+      "inns": "121",
+      "runs": "3,830",
+      "avg": "36",
+      "sr": "48",
+      "4s": "317",
+      "6s": "22"
+    },
+    {
+      "player": "Polly Umrigar",
+      "matches": "59",
+      "inns": "94",
+      "runs": "3,631",
+      "avg": "42",
+      "sr": "",
+      "4s": "151",
+      "6s": "4"
+    }
+  ]
+}
